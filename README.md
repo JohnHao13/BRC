@@ -1,2 +1,2 @@
 # BRC
-This is module BRC which implemented a compare unit
+This is module BRC which implements a compare unit
